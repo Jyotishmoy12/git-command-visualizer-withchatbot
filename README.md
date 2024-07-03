@@ -1,4 +1,4 @@
-
+Visuals:
 ---
 **1. `git init`**
    - **Command:** `init`
